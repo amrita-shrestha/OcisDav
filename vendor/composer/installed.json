@@ -1,0 +1,19 @@
+{
+    "packages": [
+        {
+            "name": "amrita/dav",
+            "version": "1.0.0",
+            "version_normalized": "1.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/amrita-shrestha/sabredavclient.git",
+                "reference": "authbearer"
+            },
+            "type": "library",
+            "installation-source": "source",
+            "install-path": "../amrita/dav"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
